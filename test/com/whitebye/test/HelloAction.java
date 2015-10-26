@@ -68,7 +68,6 @@ public class HelloAction {
         System.out.println("user=" + user.getUsername());
         System.out.println("extra=" + extra);
         System.out.println("user2=" + user2.getUsername());
-        System.out.println("aaaaaaaaaaaaaaaaaaaaaaaa");
         return user;
     }
 
